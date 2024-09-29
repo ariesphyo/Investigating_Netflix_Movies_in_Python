@@ -1,8 +1,8 @@
 # Investigating_Netflix_Movies_in_Python
 
-This analysis performs exploratory data analysis on Netflix movies data to understand more about movies from the 1990s decade.
+Welcome! This project is part of my learning journey as a Data Analyst using Python on DataCamp. 
 
-The analysis performs the following tasks: 
+This analysis performs exploratory data analysis on Netflix movies data to understand more about movies from the 1990s decade. The analysis performs the following tasks: 
 
   1. Filtering the data for movies released in the 1990s
   2. Finding the most frequent movie duration
